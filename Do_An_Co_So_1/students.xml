@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="20.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="model.Student">
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="lop">
+     <string>23IT1B</string>
+    </void>
+    <void property="masv">
+     <string>23IT.B152</string>
+    </void>
+    <void property="phong">
+     <string>512</string>
+    </void>
+    <void property="ten">
+     <string>Phạm Minh Nhật</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Student">
+    <void property="id">
+     <int>4</int>
+    </void>
+    <void property="lop">
+     <string>23IT1</string>
+    </void>
+    <void property="masv">
+     <string>23IT273</string>
+    </void>
+    <void property="phong">
+     <string>520</string>
+    </void>
+    <void property="ten">
+     <string>Nguyễn Thị Thùy Tiến IU anh nhat</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Student">
+    <void property="id">
+     <int>5</int>
+    </void>
+    <void property="lop">
+     <string>23IT1</string>
+    </void>
+    <void property="masv">
+     <string>23IT001</string>
+    </void>
+    <void property="phong">
+     <string>101</string>
+    </void>
+    <void property="ten">
+     <string>An</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Student">
+    <void property="id">
+     <int>6</int>
+    </void>
+    <void property="lop">
+     <string>23IT3</string>
+    </void>
+    <void property="masv">
+     <string>23IT002</string>
+    </void>
+    <void property="phong">
+     <string>105</string>
+    </void>
+    <void property="ten">
+     <string>An</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Student">
+    <void property="id">
+     <int>7</int>
+    </void>
+    <void property="lop">
+     <string>23BA</string>
+    </void>
+    <void property="masv">
+     <string>23IT004</string>
+    </void>
+    <void property="phong">
+     <string>512</string>
+    </void>
+    <void property="ten">
+     <string>Việt</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Student">
+    <void property="id">
+     <int>9</int>
+    </void>
+    <void property="lop">
+     <string>23IT1A</string>
+    </void>
+    <void property="masv">
+     <string>23IT100</string>
+    </void>
+    <void property="phong">
+     <string>512</string>
+    </void>
+    <void property="ten">
+     <string>HOÀNG</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Student">
+    <void property="id">
+     <int>10</int>
+    </void>
+    <void property="lop">
+     <string>23IT1B</string>
+    </void>
+    <void property="masv">
+     <string>23IT.B252</string>
+    </void>
+    <void property="phong">
+     <string>520</string>
+    </void>
+    <void property="ten">
+     <string>VY</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Student">
+    <void property="id">
+     <int>12</int>
+    </void>
+    <void property="lop">
+     <string>23BB</string>
+    </void>
+    <void property="masv">
+     <string>23IT003</string>
+    </void>
+    <void property="phong">
+     <string>513</string>
+    </void>
+    <void property="ten">
+     <string>Việt</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Student">
+    <void property="id">
+     <int>13</int>
+    </void>
+    <void property="lop">
+     <string>23IT1B</string>
+    </void>
+    <void property="masv">
+     <string>1</string>
+    </void>
+    <void property="phong">
+     <string>101</string>
+    </void>
+    <void property="ten">
+     <string>A</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Student">
+    <void property="id">
+     <int>14</int>
+    </void>
+    <void property="lop">
+     <string>23IT1B</string>
+    </void>
+    <void property="masv">
+     <string>2</string>
+    </void>
+    <void property="phong">
+     <string>101</string>
+    </void>
+    <void property="ten">
+     <string>C</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Student">
+    <void property="id">
+     <int>15</int>
+    </void>
+    <void property="lop">
+     <string>23IT1B</string>
+    </void>
+    <void property="masv">
+     <string>3</string>
+    </void>
+    <void property="phong">
+     <string>101</string>
+    </void>
+    <void property="ten">
+     <string>C</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Student">
+    <void property="id">
+     <int>16</int>
+    </void>
+    <void property="lop">
+     <string>23IT1B</string>
+    </void>
+    <void property="masv">
+     <string>4</string>
+    </void>
+    <void property="phong">
+     <string>101</string>
+    </void>
+    <void property="ten">
+     <string>C</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
